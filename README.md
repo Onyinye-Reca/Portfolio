@@ -1,2 +1,2 @@
 # Portfolio
-onyinyechi-portfolio.netlify.app
+https://onyinyechi-portfolio.netlify.app/
